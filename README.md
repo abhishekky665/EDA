@@ -34,7 +34,7 @@ In this project, I performed **Exploratory Data Analysis (EDA)** on the provided
 ## 💡 Conclusion
 This project helped me gain practical experience in **Exploratory Data Analysis** and enhanced my understanding of data science fundamentals.
 
-👨‍💻 *Created by:* [Sai Santosh Mukadam]
+👨‍💻 *Created by:* Abhishek Raj
 📅 *Internship Project - Oasis Infobyte (Data Analytics)*
 
 
